@@ -1,0 +1,30 @@
+---
+title: "RMarkdown Class Schedule"
+author: "Luyang Chen"
+date: "May 31, 2020"
+output:
+  html_notebook:
+    df_print: paged
+---
+
+# Class Schedule
+
+### ESL 015:
+This course is prepared for students who use English as their second language. I'm taking this course and I have learned how to write and cite in a
+correct way. For the picture I use the Palmer Museum one because one of the assignment about contract and comparision was told us to compare two buildings on 
+campus and I chose Old Main and Palmer museum.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/22/Palmer_Museum_of_Art_with_George_Rickey_kinetic_sculpture.jpg)
+
+
+### STAT 184: Introduction to R Programming
+In this course is mainly to learn data warangling and processing and from now I'm very glad to learn how to use R in Rstudio.
+This picture in a logo of Rstudio
+![](https://rstudio.com/assets/img/og/rstudio-og-fb-1.jpg)
+
+### [PHYS 211]
+In this course I'm going to learn some basic physics about force and The reason I take this course in just I need this course to fullfill
+my GENED credits as a GN course
+Here is a picture of Omsond Laboratory, I've heared that most of physics course will be taken at there but we have to do online course of this 
+summer.
+![](https://farm8.staticflickr.com/7185/6908177593_360903db8c.jpg)
